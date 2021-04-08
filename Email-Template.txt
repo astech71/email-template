@@ -1,0 +1,219 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional //EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
+
+<head>
+	<!--[if gte mso 9]><xml><o:OfficeDocumentSettings><o:AllowPNG/><o:PixelsPerInch>96</o:PixelsPerInch></o:OfficeDocumentSettings></xml><![endif]-->
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta name="viewport" content="width=device-width">
+	<!--[if !mso]><!-->
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<!--<![endif]-->
+	<title></title>
+	<!--[if !mso]><!-->
+	<link href="https://fonts.googleapis.com/css?family=Merriweather" rel="stylesheet" type="text/css">
+	<link href="https://fonts.googleapis.com/css?family=Fira+Sans" rel="stylesheet" type="text/css">
+	<link href="https://fonts.googleapis.com/css?family=Droid+Serif" rel="stylesheet" type="text/css">
+	<link href="https://fonts.googleapis.com/css?family=Cabin" rel="stylesheet" type="text/css">
+	<link href="https://fonts.googleapis.com/css?family=Bitter" rel="stylesheet" type="text/css">
+	<link href="https://fonts.googleapis.com/css?family=Abril+Fatface" rel="stylesheet" type="text/css">
+	<link href="https://fonts.googleapis.com/css?family=Permanent+Marker" rel="stylesheet" type="text/css">
+	<link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet" type="text/css">
+	<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet" type="text/css">
+	<link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet" type="text/css">
+	<link href="https://fonts.googleapis.com/css?family=Oswald" rel="stylesheet" type="text/css">
+	<!--<![endif]-->
+	<style type="text/css">
+		body {
+			margin: 0;
+			padding: 0;
+		}
+
+		table,
+		td,
+		tr {
+			vertical-align: top;
+			border-collapse: collapse;
+		}
+
+		* {
+			line-height: inherit;
+		}
+
+		a[x-apple-data-detectors=true] {
+			color: inherit !important;
+			text-decoration: none !important;
+		}
+	</style>
+	<style type="text/css" id="media-query">
+		@media (max-width: 700px) {
+
+			.block-grid,
+			.col {
+				min-width: 320px !important;
+				max-width: 100% !important;
+				display: block !important;
+			}
+
+			.block-grid {
+				width: 100% !important;
+			}
+
+			.col {
+				width: 100% !important;
+			}
+
+			.col_cont {
+				margin: 0 auto;
+			}
+
+			img.fullwidth,
+			img.fullwidthOnMobile {
+				max-width: 100% !important;
+			}
+
+			.no-stack .col {
+				min-width: 0 !important;
+				display: table-cell !important;
+			}
+
+			.no-stack.two-up .col {
+				width: 50% !important;
+			}
+
+			.no-stack .col.num2 {
+				width: 16.6% !important;
+			}
+
+			.no-stack .col.num3 {
+				width: 25% !important;
+			}
+
+			.no-stack .col.num4 {
+				width: 33% !important;
+			}
+
+			.no-stack .col.num5 {
+				width: 41.6% !important;
+			}
+
+			.no-stack .col.num6 {
+				width: 50% !important;
+			}
+
+			.no-stack .col.num7 {
+				width: 58.3% !important;
+			}
+
+			.no-stack .col.num8 {
+				width: 66.6% !important;
+			}
+
+			.no-stack .col.num9 {
+				width: 75% !important;
+			}
+
+			.no-stack .col.num10 {
+				width: 83.3% !important;
+			}
+
+			.video-block {
+				max-width: none !important;
+			}
+
+			.mobile_hide {
+				min-height: 0px;
+				max-height: 0px;
+				max-width: 0px;
+				display: none;
+				overflow: hidden;
+				font-size: 0px;
+			}
+
+			.desktop_hide {
+				display: block !important;
+				max-height: none !important;
+			}
+		}
+	</style>
+</head>
+
+<body class="clean-body" style="margin: 0; padding: 0; -webkit-text-size-adjust: 100%; background-color: #fc6649;">
+	<!--[if IE]><div class="ie-browser"><![endif]-->
+	<table class="nl-container" style="table-layout: fixed; vertical-align: top; min-width: 320px; border-spacing: 0; border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; background-color: #fc6649; width: 100%;" cellpadding="0" cellspacing="0" role="presentation" width="100%" bgcolor="#fc6649" valign="top">
+		<tbody>
+			<tr style="vertical-align: top;" valign="top">
+				<td style="word-break: break-word; vertical-align: top;" valign="top">
+					<!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td align="center" style="background-color:#fc6649"><![endif]-->
+					<div style="background-image:url('https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/BeeProAgency/653287_635554/d1qftz2-2a0037c9-ae24-477c-b1e9-4c3a852033a2.gif');background-position:top center;background-repeat:no-repeat;background-color:#ff8068;">
+						<div class="block-grid " style="min-width: 320px; max-width: 680px; overflow-wrap: break-word; word-wrap: break-word; word-break: break-word; Margin: 0 auto; background-color: transparent;">
+							<div style="border-collapse: collapse;display: table;width: 100%;background-color:transparent;">
+								<!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0" style="background-image:url('https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/BeeProAgency/653287_635554/d1qftz2-2a0037c9-ae24-477c-b1e9-4c3a852033a2.gif');background-position:top center;background-repeat:no-repeat;background-color:#ff8068;"><tr><td align="center"><table cellpadding="0" cellspacing="0" border="0" style="width:680px"><tr class="layout-full-width" style="background-color:transparent"><![endif]-->
+								<!--[if (mso)|(IE)]><td align="center" width="680" style="background-color:transparent;width:680px; border-top: 0px solid transparent; border-left: 0px solid transparent; border-bottom: 0px solid transparent; border-right: 0px solid transparent;" valign="top"><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 0px; padding-left: 0px; padding-top:5px; padding-bottom:0px;"><![endif]-->
+								<div class="col num12" style="min-width: 320px; max-width: 680px; display: table-cell; vertical-align: top; width: 680px;">
+									<div class="col_cont" style="width:100% !important;">
+										<!--[if (!mso)&(!IE)]><!-->
+										<div style="border-top:0px solid transparent; border-left:0px solid transparent; border-bottom:0px solid transparent; border-right:0px solid transparent; padding-top:5px; padding-bottom:0px; padding-right: 0px; padding-left: 0px;">
+											<!--<![endif]-->
+											<div class="img-container center fixedwidth" align="center" style="padding-right: 25px;padding-left: 25px;">
+												<!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr style="line-height:0px"><td style="padding-right: 25px;padding-left: 25px;" align="center"><![endif]-->
+												<div style="font-size:1px;line-height:25px">&nbsp;</div><img class="center fixedwidth" align="center" border="0" src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/BeeProAgency/653287_635554/Technologies.png" alt="Hackaton Logo" title="Hackaton Logo" style="text-decoration: none; -ms-interpolation-mode: bicubic; height: auto; border: 0; width: 100%; max-width: 136px; display: block;" width="136">
+												<div style="font-size:1px;line-height:25px">&nbsp;</div>
+												<!--[if mso]></td></tr></table><![endif]-->
+											</div>
+											<!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 0px; padding-left: 0px; padding-top: 0px; padding-bottom: 0px; font-family: Arial, sans-serif"><![endif]-->
+											<div style="color:#21fb24;font-family:'Abril Fatface', Arial, 'Helvetica Neue', Helvetica, sans-serif;line-height:1.2;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;">
+												<div class="txtTinyMce-wrapper" style="font-size: 12px; line-height: 1.2; font-family: 'Abril Fatface', Arial, 'Helvetica Neue', Helvetica, sans-serif; color: #21fb24; mso-line-height-alt: 14px;">
+													<p style="font-size: 58px; text-align: center; line-height: 1.2; font-family: 'Abril Fatface', Arial, 'Helvetica Neue', Helvetica, sans-serif; word-break: break-word; mso-line-height-alt: 70px; margin: 0;"><span style="font-size: 58px;">Become an Ethical Hacker Who can hack Everything</span></p>
+												</div>
+											</div>
+											<!--[if mso]></td></tr></table><![endif]-->
+											<!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 0px; padding-left: 0px; padding-top: 0px; padding-bottom: 0px; font-family: Arial, sans-serif"><![endif]-->
+											<div style="color:#393d47;font-family:'Oswald', Arial, 'Helvetica Neue', Helvetica, sans-serif;line-height:1.2;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;">
+												<div class="txtTinyMce-wrapper" style="font-size: 12px; line-height: 1.2; color: #393d47; font-family: 'Oswald', Arial, 'Helvetica Neue', Helvetica, sans-serif; mso-line-height-alt: 14px;">
+													<p style="font-size: 12px; line-height: 1.2; word-break: break-word; mso-line-height-alt: 14px; margin: 0;">&nbsp;</p>
+												</div>
+											</div>
+											<!--[if mso]></td></tr></table><![endif]-->
+											<!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 10px; padding-left: 10px; padding-top: 10px; padding-bottom: 10px; font-family: Arial, sans-serif"><![endif]-->
+											<div style="color:#ffffff;font-family:'Abril Fatface', Arial, 'Helvetica Neue', Helvetica, sans-serif;line-height:1.5;padding-top:10px;padding-right:10px;padding-bottom:10px;padding-left:10px;">
+												<div class="txtTinyMce-wrapper" style="line-height: 1.5; font-size: 12px; font-family: 'Abril Fatface', Arial, 'Helvetica Neue', Helvetica, sans-serif; color: #ffffff; mso-line-height-alt: 18px;">
+													<p style="font-size: 14px; line-height: 1.5; font-family: 'Abril Fatface', Arial, 'Helvetica Neue', Helvetica, sans-serif; word-break: break-word; mso-line-height-alt: 21px; margin: 0;"><em><span style="font-size: 20px;">Hey There,</span></em><br><em><span style="font-size: 20px;">Do you want to be an Ethical Hacker? If yes this mail is going to change your life. If you have a big dream that one day you are going to be a hacker, then your dream is about to be true. You are searching for Ethical Hacking Videos and Courses Online but not getting any useful&nbsp;results, right? Those&nbsp;videos are teaching you silly phishing attacks and shits that's don't&nbsp;works in real life. Don't be frustrated&nbsp;we are here to help you. Look Companies like Google, Facebook, Microsoft are hiring Ethical Hackers to Protects their system and they are still getting hacked. So there are some people who know actual hacking so that they can break through any security. We are going to reveal those secrets to you. We are giving free&nbsp;SEH&nbsp;(The Secrets of Ethical Hacking&nbsp;) Certification Program's&nbsp;Preparation Workshop. Have the free workshop now. don't&nbsp;miss this life-changing workshop.&nbsp;</span></em><br><br><em><span style="font-size: 20px;"><a href="https://astech.site/sehpw/" target="_blank" rel="nofollow noopener" data-saferedirecturl="https://www.google.com/url?hl=bn&amp;q=https://astech.site/sehpw/&amp;source=gmail&amp;ust=1617564889319000&amp;usg=AFQjCNESNg8Zr79AB_vBXpJbdeqH33FxuQ" style="color: #00ff09;">Click Here to learn Hacking</a></span></em></p>
+													<p style="line-height: 1.5; font-family: 'Abril Fatface', Arial, 'Helvetica Neue', Helvetica, sans-serif; word-break: break-word; mso-line-height-alt: 18px; margin: 0;">&nbsp;</p>
+													<p style="line-height: 1.5; font-family: 'Abril Fatface', Arial, 'Helvetica Neue', Helvetica, sans-serif; word-break: break-word; mso-line-height-alt: 18px; margin: 0;"><em><span style="font-size: 20px;">Best Regards,</span></em><br><em><span style="font-size: 20px;">Shah Amanat Sabir</span></em><br><em><span style="font-size: 20px;">Chief Technology Officer</span></em><br><em><span style="font-size: 20px;">AS Technologies 71</span></em></p>
+												</div>
+											</div>
+											<!--[if mso]></td></tr></table><![endif]-->
+											<table class="divider" border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed; vertical-align: top; border-spacing: 0; border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; min-width: 100%; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;" role="presentation" valign="top">
+												<tbody>
+													<tr style="vertical-align: top;" valign="top">
+														<td class="divider_inner" style="word-break: break-word; vertical-align: top; min-width: 100%; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; padding-top: 10px; padding-right: 10px; padding-bottom: 10px; padding-left: 10px;" valign="top">
+															<table class="divider_content" border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed; vertical-align: top; border-spacing: 0; border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-top: 0px solid transparent; height: 0px; width: 100%;" align="center" role="presentation" height="0" valign="top">
+																<tbody>
+																	<tr style="vertical-align: top;" valign="top">
+																		<td style="word-break: break-word; vertical-align: top; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;" height="0" valign="top"><span></span></td>
+																	</tr>
+																</tbody>
+															</table>
+														</td>
+													</tr>
+												</tbody>
+											</table>
+											<!--[if (!mso)&(!IE)]><!-->
+										</div>
+										<!--<![endif]-->
+									</div>
+								</div>
+								<!--[if (mso)|(IE)]></td></tr></table><![endif]-->
+								<!--[if (mso)|(IE)]></td></tr></table></td></tr></table><![endif]-->
+							</div>
+						</div>
+					</div>
+					<!--[if (mso)|(IE)]></td></tr></table><![endif]-->
+				</td>
+			</tr>
+		</tbody>
+	</table>
+	<!--[if (IE)]></div><![endif]-->
+</body>
+
+</html>
